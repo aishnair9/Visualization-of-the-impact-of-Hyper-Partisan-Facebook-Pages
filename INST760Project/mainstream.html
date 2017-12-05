@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>INST 760</title> 
+  <meta name="author" content="Sundar Singh | eesur.com">
+  
+  <link rel="stylesheet" href="style.css">
+  <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js" charset="utf-8"></script>
+</head>
+
+<script src="script2.js" charset="utf-8"></script>
+<header>
+<h3 style="text-align: center; text-decoration: underline;">Hyperpartisan Facebook News</h3>
+  <div class="pagination">
+
+      <a href="index.html">Buzzfeed Dataset</a>
+      <a href="left.html">Left Wing</a>
+      <a href="mainstream.html" style="background: #80808057 !important;">Mainstream</a>
+      <a href="right.html">Right wing</a>
+      <a href="allthree.html">All three</a>
+  </div>
+      <input id="popularityView" type="checkbox">
+      <label for="popularityView">View only the top 20% most popular news articles in this chart.</label>
+</header>
+
+<section id='grid'></section>
+  
+<div class="part3">
+    <img style="float: left;" width="200" height="200" id="pageLogo" src="">
+        <div style="float: left;" class="legend">
+        <ul>
+            <li style="list-style: none; width: 275px">
+                <div id="mf_square_count" class="legend">
+                    
+                </div>
+                
+                <div id="mf" class="legend"></div>
+                
+                Mostly False
+            
+            </li>
+            <li style="list-style: none; width: 275px">
+                <div id="tf_square_count" class="legend">
+                    
+                </div>
+                
+                <div id="tf" class="legend"></div>
+                
+                Mix of True & False
+            
+            </li>
+            <li style="list-style: none; width: 275px">
+                <div id="mt_square_count" class="legend">
+                    
+                </div>
+                
+                <div id="mt" class="legend"></div>
+                
+                Mostly True
+            
+            </li>
+            <li style="list-style: none; width: 275px">
+                <div id="nf_square_count" class="legend">
+                    
+                </div>
+                
+                <div id="nf" class="legend"></div>
+                
+                No factual content
+            
+            </li>
+        </ul>
+    </div>
+    <div style="float: right;margin-right: 11em;" id="popStats">
+        <ul>
+            <li style="list-style: none; width: 274px" id="shares">
+            </li>
+            
+            <li style="list-style: none; width: 274px" id="reactions">
+            </li>
+            
+            <li style="list-style: none; width: 274px" id="comments">
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+
+
+
+</html>

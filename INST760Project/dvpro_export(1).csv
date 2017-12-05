@@ -1,0 +1,157 @@
+,account_id,post_id,Category,Page,Post.URL,Date.Published,Post.Type,Rating,Debate,share_count,reaction_count,comment_count
+2,1.84097E+14,1.03527E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035269309904628,9/19/2016,link,mostly true,,1,33,34
+3,1.84097E+14,1.03531E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035305953234297,9/19/2016,link,mostly true,,34,63,27
+4,1.84097E+14,1.03532E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035322636565962,9/19/2016,link,mostly true,,35,170,86
+5,1.84097E+14,1.03535E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035352946562931,9/19/2016,video,mostly true,,568,3188,2815
+6,1.84097E+14,1.03537E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035366579894901,9/19/2016,link,mostly true,,23,28,21
+7,1.84097E+14,1.03541E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035411183223774,9/19/2016,video,mostly true,,46,409,105
+8,1.84097E+14,1.03543E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035430716555154,9/19/2016,link,mostly true,,7,62,64
+9,1.84097E+14,1.03545E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035451683219724,9/19/2016,link,mostly true,,7,39,6
+10,1.84097E+14,1.03545E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035453279886231,9/19/2016,video,mostly true,,152,278,59
+11,1.84097E+14,1.03546E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035456253219267,9/19/2016,link,mostly true,,8,29,14
+12,1.84097E+14,1.03549E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035489746549251,9/19/2016,link,mostly true,,NA,10,0
+13,1.84097E+14,1.03549E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035491416549084,9/19/2016,video,mostly true,,37,507,164
+14,1.84097E+14,1.0355E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035503133214579,9/19/2016,link,mostly true,,4,23,2
+15,1.84097E+14,1.03553E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035527713212121,9/19/2016,video,mostly true,,10,85,29
+16,1.84097E+14,1.03553E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035532526544973,9/19/2016,link,mostly true,,10,41,14
+18,1.84097E+14,1.03557E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035572169874342,9/19/2016,video,mostly true,,NA,16,20
+19,1.84097E+14,1.03559E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035592746538951,9/19/2016,link,mostly true,,15,276,74
+21,1.84097E+14,1.03527E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035269309904628,9/19/2016,link,mostly true,,1,33,34
+31,1.84097E+14,1.03531E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035305953234297,9/19/2016,link,mostly true,,34,63,27
+41,1.84097E+14,1.03532E+15,mainstream,ABC News Politics,https://www.facebook.com/ABCNewsPolitics/posts/1035322636565962,9/19/2016,link,mostly true,,35,170,86
+202,1.46423E+14,1.44662E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1446620375378430,9/19/2016,link,mixture of true and false,,241,2027,226
+203,1.46423E+14,1.44663E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1446625628711238,9/19/2016,link,mixture of true and false,,991,3087,313
+211,1.46423E+14,1.44725E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1447249158648885,9/19/2016,link,mixture of true and false,,1145,6552,562
+201,1.46423E+14,1.44652E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1446522352054899,9/19/2016,link,mostly true,,130,1032,382
+215,1.46423E+14,1.44744E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1447438628629938,9/19/2016,link,mostly false,,167,862,102
+222,1.46423E+14,1.44769E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1447692541937880,9/19/2016,link,mostly false,,156,661,107
+234,1.46423E+14,1.44815E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1448154985224969,9/20/2016,link,mostly false,,285,934,153
+258,1.46423E+14,1.44994E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1449944418379359,9/22/2016,link,mostly false,,NA,1397,708
+269,1.46423E+14,1.45071E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1450712398302561,9/22/2016,link,mostly false,,3063,3971,1006
+295,1.46423E+14,1.45212E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1452117881495346,9/23/2016,link,mostly false,,4708,13821,486
+303,1.46423E+14,1.45487E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1454868161220318,9/26/2016,link,mostly false,,273,2423,301
+308,1.46423E+14,1.45556E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1455558234484644,9/26/2016,link,mostly false,,4587,7960,2770
+252,1.46423E+14,1.44963E+15,left,Addicting Info,https://www.facebook.com/AddictingInfoOrg/posts/1449628885077579,9/21/2016,link,no factual content,,493,1404,167
+341,2.19367E+14,1.28139E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281392611902569,9/19/2016,link,mostly true,,8,61,62
+342,2.19367E+14,1.28149E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281494028559094,9/19/2016,link,mostly true,,6,38,39
+343,2.19367E+14,1.28156E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281555051886325,9/19/2016,link,mostly true,,122,521,214
+344,2.19367E+14,1.28161E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281614831880347,9/19/2016,link,mostly true,,19,90,88
+345,2.19367E+14,1.28166E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281662605208903,9/19/2016,link,mostly true,,119,541,206
+346,2.19367E+14,1.28168E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281683768540120,9/19/2016,link,mostly true,,21,135,57
+347,2.19367E+14,1.2817E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281703098538187,9/19/2016,link,mostly true,,58,492,414
+348,2.19367E+14,1.28171E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281708098537687,9/19/2016,link,mostly true,,29,219,136
+349,2.19367E+14,1.28172E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281724775202686,9/19/2016,link,mostly true,,46,634,229
+350,2.19367E+14,1.28174E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281744528534044,9/19/2016,link,mostly true,,33,548,305
+351,2.19367E+14,1.28177E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281765311865299,9/19/2016,link,mostly true,,17,92,66
+352,2.19367E+14,1.28177E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281774175197746,9/19/2016,link,mostly true,,75,404,310
+353,2.19367E+14,1.28179E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281789468529550,9/19/2016,link,mostly true,,21,125,94
+354,2.19367E+14,1.28181E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281811718527325,9/19/2016,link,mostly true,,101,621,564
+355,2.19367E+14,1.28184E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281841091857721,9/19/2016,video,mostly true,,465,4084,3299
+356,2.19367E+14,1.28184E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281841601857670,9/19/2016,link,mostly true,,19,132,86
+357,2.19367E+14,1.28186E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281863361855494,9/19/2016,video,mostly true,,787,3147,1511
+358,2.19367E+14,1.2819E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281903745184789,9/19/2016,link,mostly true,,78,513,424
+359,2.19367E+14,1.28194E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281935428514954,9/19/2016,link,mostly true,,85,793,403
+360,2.19367E+14,1.28196E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281960621845768,9/19/2016,link,mostly true,,170,1444,486
+361,2.19367E+14,1.28199E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1281987158509781,9/19/2016,link,mostly true,,28,284,150
+362,2.19367E+14,1.282E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282001178508379,9/19/2016,video,mostly true,,279,1738,738
+363,2.19367E+14,1.28202E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282015625173601,9/19/2016,link,mostly true,,3,37,51
+364,2.19367E+14,1.28202E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282017338506763,9/19/2016,link,mostly true,,187,1681,548
+365,2.19367E+14,1.28204E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282043955170768,9/19/2016,link,mostly true,,142,1063,443
+366,2.19367E+14,1.28207E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282069881834842,9/19/2016,link,mostly true,,87,761,404
+367,2.19367E+14,1.2821E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282097745165389,9/19/2016,link,mostly true,,17,124,40
+368,2.19367E+14,1.28213E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282129008495596,9/19/2016,link,mostly true,,55,299,131
+369,2.19367E+14,1.28217E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282165758491921,9/19/2016,link,mostly true,,46,674,339
+370,2.19367E+14,1.28219E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282194065155757,9/19/2016,link,mostly true,,130,633,426
+371,2.19367E+14,1.28222E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282217985153365,9/19/2016,link,mostly true,,6,56,30
+372,2.19367E+14,1.28223E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282229875152176,9/19/2016,link,mostly true,,72,584,215
+373,2.19367E+14,1.28224E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282241045151059,9/19/2016,video,mostly true,,51,330,584
+374,2.19367E+14,1.28225E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282252058483291,9/19/2016,link,mostly true,,156,377,284
+375,2.19367E+14,1.28229E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282286438479853,9/19/2016,link,mostly true,,11,88,117
+376,2.19367E+14,1.28229E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282289901812840,9/19/2016,video,mostly true,,119,1687,2877
+377,2.19367E+14,1.28231E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282313501810480,9/19/2016,link,mostly true,,150,636,382
+378,2.19367E+14,1.28233E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282326468475850,9/19/2016,link,mostly true,,17,138,130
+379,2.19367E+14,1.28235E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282350721806758,9/19/2016,link,mostly true,,95,251,231
+405,2.19367E+14,1.28296E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1282958578412639,9/20/2016,photo,no factual content,,3,28,61
+437,2.19367E+14,1.28353E+15,mainstream,CNN Politics,https://www.facebook.com/cnnpolitics/posts/1283530558355441,9/20/2016,link,no factual content,,2,37,82
+752,1.35665E+14,5.51473E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473135056199,9/19/2016,link,mostly false,,1966,1773,82
+754,1.35665E+14,5.51473E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473235056189,9/19/2016,photo,mostly false,,7577,2989,146
+763,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551474158389430,9/19/2016,link,mostly false,,1507,1107,147
+767,1.35665E+14,5.51518E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551518215051691,9/19/2016,link,mostly false,,138,212,80
+786,1.35665E+14,5.51705E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551705221699657,9/19/2016,link,mostly false,,3304,1996,220
+789,1.35665E+14,5.51764E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551763711693808,9/19/2016,link,mostly false,,75,140,11
+797,1.35665E+14,5.51828E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551827871687392,9/20/2016,link,mostly false,,40,42,13
+803,1.35665E+14,5.51829E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551828675020645,9/20/2016,link,mostly false,,2778,1063,165
+827,1.35665E+14,5.52056E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/552055944997918,9/20/2016,link,mostly false,,32,66,42
+829,1.35665E+14,5.52094E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/552093584994154,9/20/2016,link,mostly false,,559,534,31
+845,1.35665E+14,5.52216E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/552216391648540,9/21/2016,link,mostly false,,858,496,50
+847,1.35665E+14,5.52216E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/552216481648531,9/21/2016,link,mostly false,,186,164,51
+760,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551474015056111,9/19/2016,link,mostly true,,38,114,14
+761,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551474061722773,9/19/2016,link,mostly true,,26,71,34
+762,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551474098389436,9/19/2016,link,mostly true,,21,38,4
+750,1.35665E+14,5.51097E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551096688427177,9/19/2016,photo,no factual content,,593,639,29
+751,1.35665E+14,5.51097E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551096721760507,9/19/2016,photo,no factual content,,89,200,5
+753,1.35665E+14,5.51473E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473158389530,9/19/2016,photo,no factual content,,155,819,6
+755,1.35665E+14,5.51473E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473311722848,9/19/2016,photo,no factual content,,1193,1099,263
+757,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473548389491,9/19/2016,link,no factual content,,22,111,6
+758,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473871722792,9/19/2016,link,no factual content,,6,17,3
+777,1.35665E+14,5.51519E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551519151718264,9/19/2016,photo,no factual content,,500,467,16
+778,1.35665E+14,5.51519E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551519225051590,9/19/2016,photo,no factual content,,99,182,31
+756,1.35665E+14,5.51473E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473381722841,9/19/2016,link,mixture of true and false,,101,190,36
+759,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551473965056116,9/19/2016,link,mixture of true and false,,29,174,8
+764,1.35665E+14,5.51474E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551474225056090,9/19/2016,link,mixture of true and false,,17,63,32
+765,1.35665E+14,5.51475E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551474598389386,9/19/2016,link,mixture of true and false,,201,224,40
+768,1.35665E+14,5.51518E+14,right,Eagle Rising,https://www.facebook.com/theEagleisRising/posts/551518255051687,9/19/2016,link,mixture of true and false,,264,290,10
+1040,4.40106E+14,1.24566E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1245661855495929,9/19/2016,link,mixture of true and false,,2965,4607,3728
+1049,4.40106E+14,1.24624E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1246242658771182,9/19/2016,link,mixture of true and false,,95,259,16
+1053,4.40106E+14,1.24649E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1246491382079643,9/19/2016,link,mixture of true and false,,82,857,49
+1036,4.40106E+14,1.24566E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1245655948829853,9/19/2016,link,mostly true,,1511,2281,191
+1038,4.40106E+14,1.24566E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1245659788829469,9/19/2016,link,mostly true,,65,185,8
+1039,4.40106E+14,1.24566E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1245660842162697,9/19/2016,link,mostly true,,947,1689,535
+1037,4.40106E+14,1.24566E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1245657488829699,9/19/2016,link,mostly false,,572,1148,204
+1041,4.40106E+14,1.24609E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1246091905452924,9/19/2016,link,mostly false,,13305,9490,932
+1046,4.40106E+14,1.24621E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1246207405441374,9/19/2016,link,mostly false,,4595,4899,256
+1052,4.40106E+14,1.24648E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1246475268747921,9/19/2016,link,mostly false,,54,109,39
+1062,4.40106E+14,1.24688E+15,right,Freedom Daily,https://www.facebook.com/FreedomDailyNews/posts/1246879678707480,9/20/2016,link,mostly false,,3697,5811,206
+1157,3.46937E+14,1.24572E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1245723568854028,9/19/2016,link,mixture of true and false,,2007,8342,720
+1158,3.46937E+14,1.24575E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1245754342184284,9/19/2016,link,mixture of true and false,,5207,10719,3695
+1159,3.46937E+14,1.24577E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1245766898849695,9/19/2016,link,mixture of true and false,,33482,19552,1741
+1148,3.46937E+14,1.24498E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1244975748928810,9/19/2016,link,mostly true,,9144,13983,1052
+1218,3.46937E+14,1.24798E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1247976241962094,9/22/2016,photo,mostly false,,1,17525,441
+1224,3.46937E+14,1.24861E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1248606598565725,9/22/2016,link,mostly false,,2343,5113,314
+1239,3.46937E+14,1.24853E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1248526781907040,9/23/2016,photo,mostly false,,22075,34622,2527
+1246,3.46937E+14,1.24962E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1249620025131049,9/23/2016,link,mostly false,,17635,22099,1970
+1251,3.46937E+14,1.24975E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1249753408451044,9/23/2016,link,mostly false,,11931,39770,2897
+1255,3.46937E+14,1.24986E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1249861458440239,9/23/2016,link,mostly false,,2593,7929,631
+1273,3.46937E+14,1.25268E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1252678871491831,9/26/2016,link,mostly false,,28254,59251,2981
+1347,3.46937E+14,1.254E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1254000264693025,9/27/2016,link,mostly false,yes,5541,9110,638
+1352,3.46937E+14,1.2542E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1254200998006285,9/27/2016,link,mostly false,,5054,10271,431
+1150,3.46937E+14,1.24547E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1245466285546423,9/19/2016,video,no factual content,,121577,54024,9549
+1155,3.46937E+14,1.24568E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1245683785524673,9/19/2016,photo,no factual content,,32189,42085,2302
+1156,3.46937E+14,1.2457E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1245696502190068,9/19/2016,photo,no factual content,,12984,19513,3204
+1170,3.46937E+14,1.2459E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1245904742169244,9/20/2016,photo,no factual content,,18396,95902,3754
+1177,3.46937E+14,1.24615E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1246148605478191,9/20/2016,photo,no factual content,,1,15305,322
+1178,3.46937E+14,1.24654E+15,left,Occupy Democrats,https://www.facebook.com/OccupyDemocrats/posts/1246535718772813,9/20/2016,photo,no factual content,,8188,14892,661
+1357,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840261811680,9/19/2016,link,mostly true,,47,646,282
+1358,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840402091680,9/19/2016,link,mostly true,,10,66,22
+1359,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840562681680,9/19/2016,link,mostly true,,25,107,29
+1360,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840763316680,9/19/2016,link,mostly true,,92,779,192
+1361,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840772606680,9/19/2016,link,mostly true,,163,631,246
+1362,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840786006680,9/19/2016,link,mostly true,,36,401,96
+1363,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840797346680,9/19/2016,link,mostly true,,6,54,11
+1364,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840829921680,9/19/2016,link,mostly true,,5,48,9
+1365,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840851661680,9/19/2016,link,mostly true,,4,27,17
+1366,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840889606680,9/19/2016,link,mostly true,,26,64,16
+1367,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840910511680,9/19/2016,link,mostly true,,27,62,39
+1368,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153840981211680,9/19/2016,link,mostly true,,18,223,80
+1369,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153841027911680,9/19/2016,link,mostly true,,268,1288,755
+1370,62317591679,1.01538E+16,mainstream,Politico,https://www.facebook.com/politico/posts/10153841079491680,9/19/2016,link,mostly true,,35,91,63
+2176,1.14518E+14,1.46304E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1463039507040356,9/20/2016,link,mixture of true and false,,4338,18160,906
+2175,1.14518E+14,1.46289E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1462891757055131,9/20/2016,photo,mostly false,,3,36556,1002
+2190,1.14518E+14,1.46384E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1463842706960036,9/20/2016,photo,mostly false,,3261,9590,445
+2191,1.14518E+14,1.46389E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1463890730288567,9/20/2016,photo,mostly false,,11571,8568,930
+2214,1.14518E+14,1.46511E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1465108913500082,9/21/2016,photo,mostly false,,21673,19682,329
+2249,1.14518E+14,1.47081E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1470814329596207,9/26/2016,link,mostly false,,32181,48387,2551
+2161,1.14518E+14,1.4624E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1462399387104368,9/19/2016,photo,no factual content,,2,26990,590
+2170,1.14518E+14,1.46278E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1462776623733311,9/19/2016,video,no factual content,,1801,5927,241
+2174,1.14518E+14,1.46282E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1462822623728711,9/20/2016,video,no factual content,,4,16486,644
+2177,1.14518E+14,1.46335E+15,left,The Other 98%,https://www.facebook.com/TheOther98/posts/1463351953675778,9/20/2016,photo,no factual content,,23015,43279,981
